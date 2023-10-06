@@ -62,6 +62,7 @@ O projeto **Upload.ai** possui muitas aplicações práticas. Ele poderá ajudar
 - [x] Cópia dos resultados gerados pela IA para a área de transferência.
 
 ## 💻 Demonstração
+![Upload-IA2](https://github.com/mbrenodev/nlw-upload-ai-mastery/assets/46978490/b8e00bf5-4944-4819-b277-1efe2e4edd97)
 
 
 
@@ -226,7 +227,7 @@ Esse projeto está sob a licença **MIT**. Veja o arquivo _**LICENSE**_ para mai
 
 ---
 
-Desenvolvido com 💚 por <a href="https://github.com/mbrenodev/">mbreno</a>
+Desenvolvido com 💚 por <a href="https://github.com/mbrenodev/">Márcio Breno</a>
 
 <div style="display: flex;">
   <a href="https://www.linkedin.com/in/mbrenodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 2vw" target="_blank"></a>
